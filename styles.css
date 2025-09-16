@@ -358,6 +358,13 @@ html {
   height: 100%;
 }
 
+.portofolio-button {
+  padding: 12px 30px;
+  background-color: darkblue;
+  box-shadow: white;
+  border-radius: 10px;
+}
+
 /* Media Queries */
 @media screen and (max-width: 1368px) {
   .portfolio__projects {
